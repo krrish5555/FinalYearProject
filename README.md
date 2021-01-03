@@ -1,28 +1,25 @@
 # HandWritten Digit Recognition using Deep-Learning
 **Final Year Project**
 
->> MNIST based Handwritten Digit Recognition using MLP
+>> Handwritten Digit Recognition using Deep-Learning
 
 
 ## System Configuration used for development
 
 ### System Info
-- **System:** Linux
-- **Release:** 5.3.0-53-generic
-- **Version:** #47~18.04.1-Ubuntu SMP Thu May 7 13:10:50 UTC 2020
+- **System:** Windows
 - **Os type:** 64-bit
 
 ### CPU Info
-- **Model:** intel core i7-8550U @1.80GHz
-- **Physical cores:** 4
-- **Total cores:** 8
+- **Model:** intel core i7-10710U @1.61GHz
+- **Total cores:** 6
 
 ### Memory Info
-- **Main:** 15.38 GB
-- **Swap:** 15.26 GB
+- **Main:** 16.0 GB
+
 
 ### Disk info
-- **SSD:** 256 GB
+- **SSD:** 512 GB
 
 ## **Setting up the development environment**
 
@@ -32,5 +29,5 @@
 ### Clone the Repo
 > Go to your desired foldar location. Open the terminal and run the following command.
     
-    git clone https://github.com/kattelsameer/HandWritten-Digit-Recognition-using-Deep-Learning.git
+    git clone https://github.com/krrish5555/FinalYearProject.git
     
